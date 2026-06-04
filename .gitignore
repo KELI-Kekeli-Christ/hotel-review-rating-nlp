@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+env/
+.env
+*.pth
+*.pt
+*.out
+.DS_Store
+# Large model files
+bert_hotel_rating_model_v4.pth
+model_v*/
