@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="README.md"><b>English</b></a>
+  &nbsp;·&nbsp;
+  <a href="README.fr.md">Français</a>
+  &nbsp;·&nbsp;
+  <a href="README.es.md">Español</a>
+</p>
+
 # Hotel Review Rating Prediction — From TF-IDF to ModernBERT
 
 > Predicting hotel star ratings (1–5★) from customer review text, progressing from classical NLP baselines to state-of-the-art Transformer fine-tuning with ordinal regression — reaching **R² = 0.75 and 70% exact accuracy**.
